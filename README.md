@@ -11,7 +11,7 @@ Usage: To use the Todo List application, simply run the todo_list.py file in you
 
 
 
-##Simple Calculator
+2.Simple Calculator
 
 Description: The Simple Calculator application is a basic calculator that can perform arithmetic operations such as addition, subtraction, multiplication, and division. This application helps users practice working with user input, functions, and conditional statements.
 
@@ -19,7 +19,7 @@ Usage: Run the calculator.py file to launch the Simple Calculator. Follow the pr
 
 
 
-#Password Generator
+3.Password Generator
 
 Description: The Password Generator is a utility that generates strong, random passwords. Users can specify the length of the passwords they need. This project provides hands-on experience with random number generation and string manipulation.
 
